@@ -38,6 +38,7 @@ const App = () => {
 
       <a href="/index.html">Home</a>
       <a href="/vue.html">Go to the Vue app</a>
+      <a href="/svelte.html">Go to the Svelte app</a>
       <img src={swcLogo} alt="" width="800" />
     </Container>
   );
